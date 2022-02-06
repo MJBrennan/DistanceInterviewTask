@@ -13,14 +13,14 @@
 6. Print out the results in HTML
 
 
-##Relevant File Locations
+## Relevant File Locations
 
 app/Http/Controllers/DistanceController
 routes/web.php
 resources/views/distances.blade.php
 tests/Feature/DistanceTest.php
 
-##How To Run
+## How To Run
 1. Clone Repo into environment
 2. Run 'composer update'
 3. Run 'php artisan key:generate'
