@@ -15,10 +15,10 @@
 
 ## Relevant File Locations
 
-app/Http/Controllers/DistanceController
-routes/web.php
-resources/views/distances.blade.php
-tests/Feature/DistanceTest.php
+1. app/Http/Controllers/DistanceController
+2. routes/web.php
+3. resources/views/distances.blade.php
+4. tests/Feature/DistanceTest.php
 
 ## How To Run
 1. Clone Repo into environment
